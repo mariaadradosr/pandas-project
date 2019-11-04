@@ -32,4 +32,4 @@ http://www.sharkattackfile.net/index.htm
 - Creo el dataset final (`shark`) dejando la columnas que necesito para el análisis y añadiendo una 'freq' que igualo a 1 para hacer conteos. Ajusto los types de los campos Year y Month.
 
 ## Análisis:
-Para el análisis se estudia la evolución anual de los ataques desde que se tienen registro y después enfoco el análisis en los lugares que concentran la mayoría de ataquews (Estados Unidos y Australia)
+Para el análisis se estudia la evolución anual de los ataques desde que se tienen registro y después enfoco el análisis en los lugares que concentran la mayoría de ataques (Estados Unidos y Australia) apoyándome en el uso de gráficos.
